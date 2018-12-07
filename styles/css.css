@@ -10,11 +10,12 @@ body{
 font-family: 'AUTHENTIC Sans', Arial, sans-serif;
 margin: 50px;
 text-align: left;
+background: #00007f;
     }
 
 h1, h2, p, a, ul, li {
   font-size: 42px;
-  color: red;
+  color: white;
   font-weight: normal;
   line-height: 1.2;
   margin: 0px;
@@ -33,7 +34,7 @@ a {
 hr {
   border: none;
   height: 4px;
-  background: red;
+  background: white;
   margin-bottom: 50px;
 }
 
