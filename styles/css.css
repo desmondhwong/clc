@@ -31,6 +31,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: red;
+}
+
 hr {
   border: none;
   height: 4px;
